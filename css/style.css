@@ -1,0 +1,14 @@
+body{font-family: Arial, Helvetica, sans-serif;
+    color: rgb(77, 45, 24);}
+    
+    #div{border: 2px solid rgb(102, 71, 36);
+        border-radius: 10px;
+        width: 130px;
+        height: 25px
+        color: #000;
+        text-decoration: none;
+        text-indent: 40px;
+        line-height: 40px;
+        background-color:rgb(212, 167, 116);}
+        
+    a:hover{color: #fff;}
